@@ -1,0 +1,18 @@
+{
+  "commitMessage": "automatic backup - {{date}} - {{numFiles}} changed",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 60,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": false,
+  "disablePush": true,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": true,
+  "gitPath": "",
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": true,
+  "mergeOnPull": true,
+  "treeStructure": false
+}
