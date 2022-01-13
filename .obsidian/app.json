@@ -1,4 +1,9 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
 }
